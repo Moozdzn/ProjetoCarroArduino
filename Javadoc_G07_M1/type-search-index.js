@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"pt.europeia.radarCar","l":"Carro"},{"p":"pt.europeia.radarCar","l":"Compass"},{"p":"pt.europeia.radarCar","l":"ControlosCarro"},{"p":"pt.europeia.radarCar","l":"ControlosSensor"},{"p":"pt.europeia.radarCar","l":"GUI"}]
